@@ -1,0 +1,18 @@
+✅ **Python 3.x**
+
+✅ **Modules:**
+    - Customtkinter 
+        Installation: pip install customtkinter
+    - PIL
+        Installation: pip install pillow
+    - tkinter 
+        Installation: pip install tkinter
+
+✅ Custom Font:
+    Font: Bitcount Grid Single Light Open
+    Google Fonts Link: https://fonts.google.com/specimen/Bitcount+Grid+Single?sort=popularity
+    Font file is also included in this repository.
+
+✅ Custom Theme:
+    nordic_theme.json — included in this repository.
+    Note: Download and place it in the same folder as the program (or) provide the path in the program in the place of the file,named nordic_theme.json
